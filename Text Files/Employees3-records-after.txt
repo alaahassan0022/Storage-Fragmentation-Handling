@@ -1,0 +1,57 @@
+Here's the list of records:
+
+RecName: R9	RecSize: 11	RecFrag: 2
+Contains Employee: 
+EmpId: 23	EmpName: ABC	EmpPhone: 234
+///////////////////////////////////////
+
+RecName: R1	RecSize: 15	RecFrag: 0
+Contains Employee: 
+EmpId: 2	EmpName: Nourhan	EmpPhone: 321
+///////////////////////////////////////
+
+RecName: R2	RecSize: 13	RecFrag: 0
+Contains Employee: 
+EmpId: 3	EmpName: Sally	EmpPhone: 222
+///////////////////////////////////////
+
+RecName: R11	RecSize: 13	RecFrag: 2
+Contains Employee: 
+EmpId: 234	EmpName: Rahim	EmpPhone: 234567
+///////////////////////////////////////
+
+RecName: R4	RecSize: 13	RecFrag: 0
+Contains Employee: 
+EmpId: 5	EmpName: Salem	EmpPhone: 766
+///////////////////////////////////////
+
+RecName: *-1	RecSize: 13	RecFrag: 13
+Contains Employee: 
+Deleted
+///////////////////////////////////////
+
+RecName: R6	RecSize: 14	RecFrag: 0
+Contains Employee: 
+EmpId: 7	EmpName: Talaat	EmpPhone: 23111
+///////////////////////////////////////
+
+RecName: R7	RecSize: 14	RecFrag: 0
+Contains Employee: 
+EmpId: 8	EmpName: Somaya	EmpPhone: 112342
+///////////////////////////////////////
+
+RecName: R8	RecSize: 13	RecFrag: 0
+Contains Employee: 
+EmpId: 9	EmpName: Dalia	EmpPhone: 23311
+///////////////////////////////////////
+
+RecName: R10	RecSize: 18	RecFrag: 0
+Contains Employee: 
+EmpId: 2345	EmpName: Abdulsabor	EmpPhone: 234
+///////////////////////////////////////
+
+And here's the avail list:
+
+Offset: 68	Size: 13	Pointer: -1
+///////////////////////////////////////
+
