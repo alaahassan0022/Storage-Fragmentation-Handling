@@ -1,0 +1,22 @@
+Here's the list of records:
+
+RecName: R0	RecSize: 13	RecFrag: 0
+Contains Employee: 
+EmpId: 1	EmpName: Ahmad	EmpPhone: 2333
+///////////////////////////////////////
+
+RecName: R1	RecSize: 15	RecFrag: 0
+Contains Employee: 
+EmpId: 2	EmpName: Nourhan	EmpPhone: 321
+///////////////////////////////////////
+
+RecName: *-1	RecSize: 13	RecFrag: 13
+Contains Employee: 
+Deleted
+///////////////////////////////////////
+
+And here's the avail list:
+
+Offset: 29	Size: 13	Pointer: -1
+///////////////////////////////////////
+
